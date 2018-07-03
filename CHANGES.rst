@@ -3,6 +3,10 @@ hmmlearn Changelog
 
 Here you can see the full list of changes between each hmmlearn release.
 
+Version 0.2.2
+-------------
+- Fixed compatibility issues with Python 3.7.
+
 Version 0.2.1
 -------------
 
